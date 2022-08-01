@@ -1,0 +1,15 @@
+﻿  DrawScene.cpp
+C:\usr\CSE4170\include\FreeImage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\User\Desktop\학교\3학년 1학기\기초컴퓨터그래픽스\HW5_S20181632\SunTemple_Texture_PS_GLSL\DrawScene.cpp(523,34): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Desktop\학교\3학년 1학기\기초컴퓨터그래픽스\HW5_S20181632\SunTemple_Texture_PS_GLSL\DrawScene.cpp(528,34): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Desktop\학교\3학년 1학기\기초컴퓨터그래픽스\HW5_S20181632\SunTemple_Texture_PS_GLSL\DrawScene.cpp(537,34): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Desktop\학교\3학년 1학기\기초컴퓨터그래픽스\HW5_S20181632\SunTemple_Texture_PS_GLSL\DrawScene.cpp(542,34): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Desktop\학교\3학년 1학기\기초컴퓨터그래픽스\HW5_S20181632\SunTemple_Texture_PS_GLSL\DrawScene.cpp(734,7): warning C4101: 'filename' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Desktop\학교\3학년 1학기\기초컴퓨터그래픽스\HW5_S20181632\SunTemple_Texture_PS_GLSL\DrawScene.cpp(1123,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Desktop\학교\3학년 1학기\기초컴퓨터그래픽스\HW5_S20181632\SunTemple_Texture_PS_GLSL\DrawScene.cpp(1196,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Desktop\학교\3학년 1학기\기초컴퓨터그래픽스\HW5_S20181632\SunTemple_Texture_PS_GLSL\DrawScene.cpp(1264,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Desktop\학교\3학년 1학기\기초컴퓨터그래픽스\HW5_S20181632\SunTemple_Texture_PS_GLSL\DrawScene.cpp(1326,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Desktop\학교\3학년 1학기\기초컴퓨터그래픽스\HW5_S20181632\SunTemple_Texture_PS_GLSL\DrawScene.cpp(1372,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Desktop\학교\3학년 1학기\기초컴퓨터그래픽스\HW5_S20181632\SunTemple_Texture_PS_GLSL\DrawScene.cpp(1525,44): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Desktop\학교\3학년 1학기\기초컴퓨터그래픽스\HW5_S20181632\SunTemple_Texture_PS_GLSL\DrawScene.cpp(2607,8): warning C4101: 'aspect_ratio' :참조되지 않은 지역 변수입니다.
+  SunTemple_Texture_PS_GLSL.vcxproj -> C:\Users\User\Desktop\학교\3학년 1학기\기초컴퓨터그래픽스\HW5_S20181632\x64\Debug\SunTemple_Texture_PS_GLSL.exe
